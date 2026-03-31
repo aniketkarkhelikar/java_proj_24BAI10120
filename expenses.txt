@@ -1,0 +1,2 @@
+Book purchase,850.0,Shopping,2026-03-15,Textbooks for semester
+Bus pass,180.0,Travel,2026-03-31,
